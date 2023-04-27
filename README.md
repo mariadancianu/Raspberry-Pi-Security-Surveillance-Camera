@@ -19,7 +19,7 @@ Project is: *in progress*.
 ## Steps
 - Install the Raspbian OS in your Raspberry Pi ([Getting started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html))
 - Plug the camera into the Raspberry Pi and enable the camera port ([Install a Camera on your Raspberry Pi: The Ultimate Guide](https://raspberrytips.com/install-camera-raspberry-pi/))
-- Connect the PIR motion sensor to the correct Raspberry Pi GPIO (General Purpose Input-Output) pins ([Connect the PIR motion sensor](https://raspberrytips.com/install-camera-raspberry-pi/))
+- Connect the PIR motion sensor to the correct Raspberry Pi GPIO (General Purpose Input-Output) pins ([Connect the PIR motion sensor](https://projects.raspberrypi.org/en/projects/parent-detector/1))
 
 ## Contact 
 Created by mary_0094@hotmail.it, feel free to get in touch! :woman_technologist:
