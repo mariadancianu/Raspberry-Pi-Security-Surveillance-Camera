@@ -1,6 +1,11 @@
 # Raspberry-Pi-Security-Alarm-System
 A simple security alarm system to detect intruders using a Raspberry Pi 4. 
 
+<p float="left">
+  <img src="https://github.com/mariadancianu/Raspberry-Pi-Security-Surveillance-Camera/blob/main/Raspberry-Pi-OS-Logo.png" width="800" height="400"/>
+
+</p>
+
 Steps:
 - motion detection with PIR sensor;
 - camera activation when a movement is detected;
@@ -37,6 +42,7 @@ Project is: *in progress*.
 - Install the Raspbian OS in your Raspberry Pi ([Getting started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html))
 - Plug the camera into the Raspberry Pi and enable the camera port ([Install a Camera on your Raspberry Pi: The Ultimate Guide](https://raspberrytips.com/install-camera-raspberry-pi/))
 - Connect the PIR motion sensor to the correct Raspberry Pi GPIO (General Purpose Input-Output) pins ([Connect the PIR motion sensor](https://projects.raspberrypi.org/en/projects/parent-detector/1))
+- Face Detection with Python using OpenCV (https://www.datacamp.com/tutorial/face-detection-python-opencv)
 
 ## Contact 
 Created by mary_0094@hotmail.it, feel free to get in touch! :woman_technologist:
